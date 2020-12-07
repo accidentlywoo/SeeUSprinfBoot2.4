@@ -1,4 +1,4 @@
-package com.example.seeyou;
+package com.seeyou.api;
 
 import org.dom4j.rule.Mode;
 import org.springframework.stereotype.Controller;

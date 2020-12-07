@@ -1,3 +1,5 @@
+src/main/resources/application-stg.yml
+
 HELP.md
 .gradle
 build/
@@ -18,8 +20,7 @@ bin/
 !**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
-.idea
-*.iws
+.ideaㅎ*.iws
 *.iml
 *.ipr
 out/
